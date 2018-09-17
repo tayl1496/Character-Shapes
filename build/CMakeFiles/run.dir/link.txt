@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -std=c++14   CMakeFiles/run.dir/lab2.cpp.o CMakeFiles/run.dir/lab2functions.cpp.o  -o run -rdynamic 

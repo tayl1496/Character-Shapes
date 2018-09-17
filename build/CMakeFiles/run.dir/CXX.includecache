@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/csugrads/tayl1496/cs1521/labs/lab2/src/lab2.cpp
+lab2functions.h
+/home/csugrads/tayl1496/cs1521/labs/lab2/src/lab2functions.h
+iostream
+-
+
+/home/csugrads/tayl1496/cs1521/labs/lab2/src/lab2functions.cpp
+lab2functions.h
+/home/csugrads/tayl1496/cs1521/labs/lab2/src/lab2functions.h
+iostream
+-
+cstdlib
+-
+
+/home/csugrads/tayl1496/cs1521/labs/lab2/src/lab2functions.h
+
