@@ -5,7 +5,7 @@ int main(){
   int select = -1;
   int leg, high;
   while(select!=3){
-  std::cout<<"Would you like to utilize user input"<<std::endl
+  std::cout<<"Would you like to"<<std::endl
 	   <<"1: Use user character input" <<std::endl
 	   <<"2: Use random characters"<<std::endl
 	   <<"3: Stop testing"<<std::endl;
